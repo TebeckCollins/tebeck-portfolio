@@ -1,2 +1,2 @@
-# tebeck.portfolio.github.io
+# tebeck.portfolio
 My Test Portfolio
