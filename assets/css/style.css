@@ -233,7 +233,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/IMG_E3101.JPG") top center;
+  background: url("../img/bg1.jpg") top center;
   background-size: cover;
 }
 
@@ -1087,6 +1087,11 @@ section {
   text-align: center;
   font-size: 13px;
   color: #eaebf0;
+}
+
+.logo-footer {
+  height: 15px; /* Adjust the height as needed */
+  width: auto; /* Automatically adjust the width */
 }
 
 @media (max-width: 1199px) {
